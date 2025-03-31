@@ -1,0 +1,3 @@
+# Raspberry Pi Pico
+# This is the path you would use to connect to the Raspberry Pi Pico over UART serial
+AMPY_PORT=/dev/ttyACM0
